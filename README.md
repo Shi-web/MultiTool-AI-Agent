@@ -4,7 +4,7 @@
 ---
 
 ## Project Overview
-Designed and implemented a production-ready multi-tool AI agent using LangGraph and Claude that intelligently routes user queries to appropriate external APIs, demonstrating hands-on experience with prompt engineering, tool integration, and agentic AI workflows.
+Designed and implemented a production-ready multi-tool AI agent using LangGraph that intelligently routes user queries to appropriate external APIs, demonstrating hands-on experience with prompt engineering, tool integration, and agentic AI workflows.
 
 ---
 
