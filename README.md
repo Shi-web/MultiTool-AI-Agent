@@ -1,6 +1,3 @@
-# MultiTool-AI-Agent
-# Resume Project Description: Multi-Tool AI Agent Development
-
 ## Project Title
 **Multi-Tool AI Agent with Intelligent Workflow Routing**
 
